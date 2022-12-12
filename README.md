@@ -37,4 +37,4 @@ https://github.com/https://github.com/J-Howell-kc <br/>
 Feel free to direct any questions to howell_j@hotmail.com. Thanks.
 
 ## Screenshot
-![screenshot](localhost_3001_notes.png); video link: 
+![screenshot](Note Taker With Express.png); video link: 
